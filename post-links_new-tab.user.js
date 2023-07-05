@@ -8,6 +8,8 @@
 // @match        https://reddit.com/*
 // @match        https://www.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
+// @updateURL    https://github.com/Smalls1652/reddit-userscripts/raw/main/post-links_new-tab.user.js
+// @downloadURL  https://github.com/Smalls1652/reddit-userscripts/raw/main/post-links_new-tab.user.js
 // ==/UserScript==
 
 (function () {
