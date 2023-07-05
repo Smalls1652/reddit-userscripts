@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open Reddit post in new tab
 // @namespace    http://smalls.online
-// @version      0.1
+// @version      0.2
 // @description  Make post links on Reddit open in a new tab, instead of in the current window.
 // @author       Smalls
 // @match        https://*.reddit.com/*
